@@ -3,6 +3,7 @@
 ## Setup
 
 Install dependencies with `npm install`.
+**This package is specifically for node v12.22.7**
 
 ## Running Webpack Development Server
 
