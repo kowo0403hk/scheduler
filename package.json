@@ -30,7 +30,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.4.3",
+    "@babel/core": "^7.18.5",
     "@babel/eslint-parser": "7.18.2",
     "@storybook/addon-actions": "^6.5.9",
     "@storybook/addon-backgrounds": "^5.0.10",
